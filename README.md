@@ -15,6 +15,5 @@ Robson P. Bonidia is a Ph.D. student in Computer Science and Computational Mathe
 
 ## ⭐ Information about my GitHub account 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bonidia&show_icons=true)
-![Bonidia Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bonidia)
 
 ---
