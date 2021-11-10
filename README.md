@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, my name is <strong>Bonidia</strong>
 
-<!--
-**Bonidia/Bonidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robson P. Bonidia is a Ph.D. student in Computer Science and Computational Mathematics at the University of São Paulo - USP. He received an MSc degree in Bioinformatics from the Federal University of Technology - Paraná (UTFPR), Brazil. His main research topics are in computational biology and pattern recognition, feature extraction and selection, metaheuristics, sports data mining.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+🏡 [Website][https://bonidia.github.io/website/] **|** 
+🐦 [ResearchGate][https://www.researchgate.net/profile/Robson-Bonidia-2] **|** 
+📺 [Google Scholar][https://scholar.google.com.br/citations?user=kTbx_wMAAAAJ&hl=pt-BR] **|** 
+👔 [Linkedin][https://www.linkedin.com/in/robson-parmezan-bonidia-8b1b8890/?trk=people-guest_profile-result-card_result-card_full-click&originalSubdomain=br]
+
+---
+
+## ⭐ Information about my GitHub account 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bonidia&show_icons=true)
