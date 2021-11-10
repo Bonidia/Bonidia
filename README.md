@@ -6,10 +6,10 @@ Robson P. Bonidia is a Ph.D. student in Computer Science and Computational Mathe
 
 ## Contact
 
-🏡 [Website][https://bonidia.github.io/website/] **|** 
-🐦 [ResearchGate][https://www.researchgate.net/profile/Robson-Bonidia-2] **|** 
-📺 [Google Scholar][https://scholar.google.com.br/citations?user=kTbx_wMAAAAJ&hl=pt-BR] **|** 
-👔 [Linkedin][https://www.linkedin.com/in/robson-parmezan-bonidia-8b1b8890/?trk=people-guest_profile-result-card_result-card_full-click&originalSubdomain=br]
+🏡 [Website](https://bonidia.github.io/website/) **|** 
+🐦 [ResearchGate](https://www.researchgate.net/profile/Robson-Bonidia-2) **|** 
+📺 [Google Scholar](https://scholar.google.com.br/citations?user=kTbx_wMAAAAJ&hl=pt-BR) **|** 
+👔 [Linkedin](https://www.linkedin.com/in/robson-parmezan-bonidia-8b1b8890/?trk=people-guest_profile-result-card_result-card_full-click&originalSubdomain=br)
 
 ---
 
