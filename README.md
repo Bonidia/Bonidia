@@ -17,7 +17,7 @@ Robson P. Bonidia is a Ph.D. student in Computer Science and Computational Mathe
 ⭐ Latin America Research Awards (LARA), Google, 2021. Project: BioAutoML: Automated Feature Engineering for Classification of Biological Sequences. 
 
 ---
-## ⭐ Information about my GitHub account 
+## Information about my GitHub Account 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bonidia&show_icons=true)
 
 ---
