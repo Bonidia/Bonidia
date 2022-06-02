@@ -1,6 +1,6 @@
 ## Hello, my name is <strong>Bonidia</strong>
 
-Robson P. Bonidia is a Ph.D. student in Computer Science and Computational Mathematics at the University of São Paulo - USP. He received an MSc degree in Bioinformatics from the Federal University of Technology - Paraná (UTFPR), Brazil. He was one of the winners of the Latin America Research Awards (LARA) in 2021, an award promoted by Google, with the BioAutoML research project. His main research topics are in computational biology and pattern recognition, feature extraction and selection, metaheuristics, sports data mining.
+Robson P. Bonidia is a Ph.D. candidate in Computer Science and Computational Mathematics at the University of São Paulo - USP. He received an MSc degree in Bioinformatics from the Federal University of Technology - Paraná (UTFPR), Brazil. He was one of the winners of the Latin America Research Awards (LARA) in 2021, an award promoted by Google, with the BioAutoML research project. His main research topics are in computational biology and pattern recognition, feature extraction and selection, metaheuristics, sports data mining.
 
 ----
 
