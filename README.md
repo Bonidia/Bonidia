@@ -18,7 +18,7 @@ Robson Parmezan Bonidia holds a degree in Information Security Technology from t
 ---
 ## Awards
 
-⭐ Finalists (Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Science and Innovation.
+⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Science and Innovation.
 
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences. 
 
