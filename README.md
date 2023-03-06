@@ -18,11 +18,11 @@ Robson Parmezan Bonidia holds a degree in Information Security Technology from t
 ---
 ## Awards/Grants
 
+⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
+
 ⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023.
 
 ⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Science and Innovation.
-
-⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences. 
 
 ---
 ## Information about my GitHub Account 
