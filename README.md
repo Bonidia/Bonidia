@@ -16,7 +16,7 @@ Robson Parmezan Bonidia holds a degree in Information Security Technology from t
 👔 [Linkedin](https://www.linkedin.com/in/robson-parmezan-bonidia-8b1b8890/?trk=people-guest_profile-result-card_result-card_full-click&originalSubdomain=br)
 
 ---
-## Awards/Grants//ScholarShips
+## Awards/Grants/ScholarShips
 
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
 
