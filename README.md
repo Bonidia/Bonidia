@@ -16,13 +16,17 @@ Robson Parmezan Bonidia holds a degree in Information Security Technology from t
 👔 [Linkedin](https://www.linkedin.com/in/robson-parmezan-bonidia-8b1b8890/?trk=people-guest_profile-result-card_result-card_full-click&originalSubdomain=br)
 
 ---
-## Awards/Grants
+## Awards/Grants//ScholarShips
 
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
 
+⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Science and Innovation.
+
 ⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023.
 
-⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Science and Innovation.
+⭐ Scholarship Researcher - University of São Paulo - São Carlos/Brazil (ICMC), 2020-2024. Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). 
+
+⭐ Scholarship Researcher - Federal University of Technology - Paraná/Brazil (UTFPR), 2018-2020. Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). 
 
 ---
 ## Information about my GitHub Account 
