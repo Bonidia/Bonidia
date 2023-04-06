@@ -22,7 +22,7 @@ Robson Parmezan Bonidia holds a degree in Information Security Technology from t
 
 ⭐ Helmholtz Visiting Researcher Grant/Award - Helmholtz Information & Data Science Academy (HIDA), 2023. Project Title: BioAutoML-Fast: End-to-End Multi-Threaded Machine Learning Package for Life Sciences.
 
-⭐ Research & Training Grant/Award - Federation of European Microbiological Societies (FEMS), 2023 (€: 5.000,00).
+⭐ FEMS Research & Training Grant/Award - Federation of European Microbiological Societies (FEMS), 2023 (€: 5.000,00).
 
 ⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Science and Innovation.
 
