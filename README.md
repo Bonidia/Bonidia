@@ -6,7 +6,7 @@
 
 <!--- Robson Parmezan Bonidia holds a degree in Information Security Technology from the Faculdade Estadual de Tecnologia de Ourinhos - SP (FATEC - Centro Paula Souza). He is a specialist in Computer Networks and Master's in Bioinformatics, both from the Federal University of Technology - Paraná (UTFPR), Brazil. He has experience in Computer Science, with an emphasis on the following topics: computational biology, artificial intelligence, pattern recognition, metaheuristics, and data mining. He was one of the winners of the Latin America Research Awards (LARA) in 2021, promoted by Google. Finalist (Top 15 of 82), Falling Walls Lab Brazil 2022, promoted by Falling Walls Foundation, the German Center for Science and Innovation. Currently, a Ph.D. candidate in Computer Science and Computational Mathematics at the University of São Paulo - USP.-->
 
-Robson Parmezan Bonidia is a Ph.D. candidate in Computer Science and Computational Mathematics at the University of São Paulo - USP. He holds a Master's degree in Bioinformatics and a specialist in Computer Networks, both from the Federal University of Technology - Paraná (UTFPR), Brazil. He has experience in Computer Science, with an emphasis on the following topics: computational biology, artificial intelligence, pattern recognition, metaheuristics, and data mining. He was one of the winners of the Latin America Research Awards (LARA) in 2021, promoted by Google. Finalist (Top 15 of 82), Falling Walls Lab Brazil 2022, promoted by Falling Walls Foundation, the German Center for Science and Innovation.
+Robson Parmezan Bonidia is a Ph.D. candidate in Computer Science and Computational Mathematics at the University of São Paulo - USP. He holds a Master's degree in Bioinformatics and a specialist in Computer Networks, both from the Federal University of Technology - Paraná (UTFPR), Brazil. He has experience in Computer Science, with an emphasis on the following topics: computational biology, artificial intelligence, pattern recognition, metaheuristics, and data mining. He was one of the winners of the Latin America Research Awards (LARA) in 2021, promoted by Google. Finalist (Top 15 of 82), Falling Walls Lab Brazil 2022, promoted by Falling Walls Foundation, the German Center for Research and Innovation.
 
 ----
 
@@ -26,7 +26,7 @@ Robson Parmezan Bonidia is a Ph.D. candidate in Computer Science and Computation
 
 ⭐ FEMS Research & Training Grant/Award - Federation of European Microbiological Societies (FEMS), 2023 (€: 5.000,00).
 
-⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Science and Innovation.
+⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
 ⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023.
 
