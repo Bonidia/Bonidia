@@ -22,9 +22,9 @@ Robson Parmezan Bonidia is a Ph.D. candidate in Computer Science and Computation
 
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
 
-<!--- ⭐ Helmholtz Visiting Researcher Grant/Award - Helmholtz Information & Data Science Academy (HIDA), 2023. Project Title: BioAutoML-Fast: End-to-End Multi-Threaded Machine Learning Package for Life Sciences.
+⭐ Helmholtz Visiting Researcher Grant/Award - Helmholtz Information & Data Science Academy (HIDA), 2023. Project Title: BioAutoML-Fast: End-to-End Multi-Threaded Machine Learning Package for Life Sciences.
 
-⭐ FEMS Research & Training Grant/Award - Federation of European Microbiological Societies (FEMS), 2023 (€: 5.000,00). -->
+⭐ FEMS Research & Training Grant/Award - Federation of European Microbiological Societies (FEMS), 2023 (€: 5.000,00).
 
 ⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
