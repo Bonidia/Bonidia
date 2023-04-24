@@ -20,6 +20,8 @@ Robson Parmezan Bonidia is a Ph.D. candidate in Computer Science and Computation
 ---
 ## Awards/Grants/ScholarShips
 
+⭐ Elected among the 70 finalists (among the 10 finalists in the Higher Education Category - Total of 2897 subscribers - BioFatecou project (Fatec Ourinhos) in the Transforming Educator Award, which aims to select the most transformative projects in Brazil, 2023.
+
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
 
 ⭐ Helmholtz Visiting Researcher Grant/Award - Helmholtz Information & Data Science Academy (HIDA), 2023. Project Title: BioAutoML-Fast: End-to-End Multi-Threaded Machine Learning Package for Life Sciences.
