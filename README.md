@@ -22,7 +22,7 @@ My name is Robson Parmezan Bonidia, I'm a Ph.D. candidate in Computer Science an
 ---
 ## Awards/Grants/Scholarships
 
-⭐ AutoAI-Pandemics, which was selected as one of the most promising proposals (a total of 221 proposals from 47 countries following a rigorous review process (142 from Africa, 40 from Asia, 26 from LAC, 12 from MENA) in a global competition, held by the Global South Artificial Intelligence for Pandemic and Epidemic Preparedness and Response Network - AI4PEP - CAN$362,500.
+⭐ AutoAI-Pandemics, which was selected as one of the most promising proposals (a total of 221 proposals from 47 countries following a rigorous review process (142 from Africa, 40 from Asia, 26 from LAC, 12 from MENA)) in a global competition, held by the Global South Artificial Intelligence for Pandemic and Epidemic Preparedness and Response Network - AI4PEP - CAN$362,500.
 
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
 
