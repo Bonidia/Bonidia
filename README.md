@@ -36,11 +36,11 @@ I'm a Ph.D. candidate in Computer Science and Computational Mathematics at the U
 
 ⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
+⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023 ($2.750,00).
+
 ⭐ Advisor to undergraduate students Ana Clara B. Medeiros et. al, 2nd place at the 1st Cambará Ideas Fair, Grace: Resume Recommendation System with Artificial Intelligence - 1st Cambará Ideas Fair - Norte Pioneiro - Paraná, 2023.
 
 ⭐ Advisor of undergraduate student Wagner Lopes Cardozo, 3rd place at the 1st Cambará Ideas Fair, Águeda: An Artificial Intelligence for Early Detection of Breast Cancer - 1st Cambará Ideas Fair - Norte Pioneiro - Paraná, 2023.
-
-⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023.
 
 ⭐ Scholarship Researcher - University of São Paulo - São Carlos/Brazil (ICMC), 2020-2024. Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). 
 
