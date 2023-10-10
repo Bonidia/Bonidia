@@ -18,6 +18,8 @@ I'm a Ph.D. candidate in Computer Science and Computational Mathematics at the U
 
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
 
+⭐ BioPrediction - Project selected to participate in Prototypes for Humanity 2023, during COP28-Dubai, chosen from 3000 entries, from more than 100 countries, standing out among the 100 best, Prototypes for Humanity - COP28-Dubai.
+
 ⭐ Helmholtz Visiting Researcher Grant/Award - Helmholtz Information & Data Science Academy (HIDA), 2023. Project Title: BioAutoML-Fast: End-to-End Multi-Threaded Machine Learning Package for Life Sciences.
 
 ⭐ Winning Team (Advisor), 1st place, "Breaking the Wall of Fake News", Falling Walls Lab Brazil 2023, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
@@ -33,6 +35,8 @@ I'm a Ph.D. candidate in Computer Science and Computational Mathematics at the U
 ⭐ Finalist Team (Advisor), "Breaking the Wall of Alzheimer’s Detection", Falling Walls Lab Brazil 2023, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
 ⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023 ($2.750,00).
+
+⭐ 1 place in the Fatec Ourinhos Public Contest, in the Natural Language Processing (PLN) discipline, Centro Paula Souza (CPS) - SP.
 
 ⭐ Advisor to undergraduate students Ana Clara B. Medeiros et. al, 2nd place at the 1st Cambará Ideas Fair, Grace: Resume Recommendation System with Artificial Intelligence - 1st Cambará Ideas Fair - Norte Pioneiro - Paraná, 2023.
 
