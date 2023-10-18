@@ -34,6 +34,8 @@ I'm a Ph.D. candidate in Computer Science and Computational Mathematics at the U
 
 ⭐ Finalist Team (Advisor), "Breaking the Wall of Alzheimer’s Detection", Falling Walls Lab Brazil 2023, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
+⭐ Certificate of excellence for the distinction achieved at Falling Walls Lab Brazil 2023 as Advisor Professor, Faculdade Estadual de Tecnologia de Ourinhos - Fatec, 2023.
+
 ⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023 ($2.750,00).
 
 ⭐ 1 place in the Fatec Ourinhos Public Contest, in the Natural Language Processing (PLN) discipline, Centro Paula Souza (CPS) - SP.
