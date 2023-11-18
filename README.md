@@ -24,6 +24,8 @@ I'm a Ph.D. candidate in Computer Science and Computational Mathematics at the U
 
 ⭐ Winning Team (Advisor), 1st place, "Breaking the Wall of Fake News", Falling Walls Lab Brazil 2023, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
+⭐ Supervisor of the ÁGUEDA Project (Artificial Intelligence for Early Detection of Breast Cancer), recognized as the best ongoing research project in the field of Exact and Earth Sciences in Brazil for undergraduate scientific initiation by Conic-Semesp (the Largest Scientific Initiation Congress in Brazil), among more than 1,400 registered projects.
+
 ⭐ FEMS Research & Training Grant/Award - Federation of European Microbiological Societies (FEMS), 2023 (€: 5.000,00).
 
 ⭐ Finalist in the Higher Education Category (Among the 10 finalists in the Higher Education Category - 2897 subscribers - BioFatecou Project), Transformer Educator Award - Sebrae, Instituto Significare and Bett Brasil, which aims to select the most transformative projects in Brazil, 2023.
