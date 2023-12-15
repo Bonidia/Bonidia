@@ -30,7 +30,7 @@ I'm a Ph.D. candidate in Computer Science and Computational Mathematics at the U
 
 ⭐ Finalist in the Higher Education Category (Among the 10 finalists in the Higher Education Category - 2897 subscribers - BioFatecou Project), Transformer Educator Award - Sebrae, Instituto Significare and Bett Brasil, which aims to select the most transformative projects in Brazil, 2023.
 
-⭐ Honorable mention to the BioFatecou Project (more than 200 submissions) - 25th edition of the Professor Mário Palmério Top Educational Award - ABMES - Associação Brasileira de Mantenedoras de Ensino Superior - Brasil - 2023.
+⭐ Honorable mention to the BioFatecou Project (more than 200 submissions) - 25th edition of the Professor Mário Palmério Top Educational Award - ABMES - Associação Brasileira de Mantenedoras de Ensino Superior - Brasil - 2023 - Elected among the 5 most transformative projects in Brazil.
 
 ⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
