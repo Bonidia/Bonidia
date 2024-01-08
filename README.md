@@ -38,6 +38,8 @@ I'm a Ph.D. candidate in Computer Science and Computational Mathematics at the U
 
 ⭐ Certificate of excellence for the distinction achieved at Falling Walls Lab Brazil 2023 as Advisor Professor, Faculdade Estadual de Tecnologia de Ourinhos - Fatec, 2023.
 
+⭐ Motion No. 405/2023 (Ourinhos-SP City Council - Brazil) - Congratulations to the students and professors of Fatec Ourinhos for developing the 'ITT – Is That True' app, a platform to combat fake news, 2023.
+
 ⭐ Hollie's Hub for Good - DigitalOcean. BioFatecou: Introducing Undergraduates to Academic Research, 2023 ($2.750,00).
 
 ⭐ 1 place in the Fatec Ourinhos Public Contest, in the Natural Language Processing (PLN) discipline, Centro Paula Souza (CPS) - SP.
