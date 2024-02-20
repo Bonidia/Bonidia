@@ -36,6 +36,8 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 
 ⭐ Finalist Team (Advisor), "Breaking the Wall of Alzheimer’s Detection", Falling Walls Lab Brazil 2023, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
+⭐ 1 place in the UTFPR-CP Public Contest, position of Effective Federal Professor, Paraná, Brazil. 
+
 ⭐ Certificate of excellence for the distinction achieved at Falling Walls Lab Brazil 2023 as Advisor Professor, Faculdade Estadual de Tecnologia de Ourinhos - Fatec, 2023.
 
 ⭐ Motion No. 405/2023 (Ourinhos-SP City Council - Brazil) - Congratulations to the students and professors of Fatec Ourinhos for developing the 'ITT – Is That True' app, a platform to combat fake news, 2023.
