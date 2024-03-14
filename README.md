@@ -36,6 +36,8 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 
 ⭐ Finalist Team (Advisor), "Breaking the Wall of Alzheimer’s Detection", Falling Walls Lab Brazil 2023, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
+⭐ Editor's Choice Article, Entropy (2024). For the paper: "Information Theory for Biological Sequence Classification: A Novel Feature Extraction Technique Based on Tsallis Entropy." Recognized by the journal's Academic Editor as an exceptional contribution to the field. The article is featured in Entropy's special edition dedicated to showcasing groundbreaking research.
+
 ⭐ 1 place in the UTFPR-CP Public Contest, position of Effective Federal Professor, Paraná, Brazil. 
 
 ⭐ Certificate of excellence for the distinction achieved at Falling Walls Lab Brazil 2023 as Advisor Professor, Faculdade Estadual de Tecnologia de Ourinhos - Fatec, 2023.
