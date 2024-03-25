@@ -32,7 +32,7 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 
 ⭐ Honorable mention to the BioFatecou Project (more than 200 submissions) - 25th edition of the Professor Mário Palmério Top Educational Award - ABMES - Associação Brasileira de Mantenedoras de Ensino Superior - Brasil - 2023 - Elected among the 5 most transformative projects in Brazil.
 
-⭐ InteliGente was named the third most transformative educational project in the State of São Paulo by the Transformative Educator Award, 2024.
+⭐ InteliGente was named the third most transformative educational project in the State of São Paulo (Brazil) by the Transformative Educator Award, 2024.
 
 ⭐ Finalists (Ideas Contest - Top 15 of 82), Falling Walls Lab Brazil 2022, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
 
