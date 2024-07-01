@@ -32,7 +32,7 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 
 ⭐ Our BioAutoML project received third place in the ARTUR ZIVIANI THESIS AWARD (SBCAS), being chosen among the best theses in computing applied to health in Brazil, 2024.
 
-⭐ Our study received second place in the Scientific Initiation Competition (SBCAS), being chosen among the best works in computing applied to health in Brazil, 2024.
+⭐ BioPrediction received second place in the Scientific Initiation Competition (SBCAS), being chosen among the best works in computing applied to health in Brazil, 2024.
 
 ⭐ Finalist in the Higher Education Category (Among the 10 finalists in the Higher Education Category - 2897 subscribers - BioFatecou Project), Transformer Educator Award - Sebrae, Instituto Significare and Bett Brasil, which aims to select the most transformative projects in Brazil, 2023.
 
