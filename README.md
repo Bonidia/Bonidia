@@ -20,6 +20,10 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 
 ⭐ BioPrediction - Project selected to participate in Prototypes for Humanity 2023, during COP28-Dubai, chosen from 3000 entries, from more than 100 countries, standing out among the 100 best, Prototypes for Humanity - COP28-Dubai.
 
+⭐ BioAutoML - Top 10 Finalist - Santander X Brazil Award - Selected among the top 10 university projects (from over 200 entries) in Brazil in the national innovation competition promoted by Banco Santander.
+
+⭐ BioAutoML received an intensive acceleration program by ACE Cortex (one of the largest in Latin America), focusing on innovation, scalability, and business development, as part of the Santander X Brazil Award.
+
 ⭐ Helmholtz Visiting Researcher Grant/Award - Helmholtz Information & Data Science Academy (HIDA), 2023. Project Title: BioAutoML-Fast: End-to-End Multi-Threaded Machine Learning Package for Life Sciences.
 
 ⭐ Winning Team (Advisor), 1st place, "Breaking the Wall of Fake News", Falling Walls Lab Brazil 2023, DWIH São Paulo, Falling Walls Foundation, DAAD, The German Center for Research and Innovation.
