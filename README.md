@@ -18,6 +18,10 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. BioAutoML: Automated Feature Engineering for Classification of Biological Sequences (24 awarded projects, from a base of 700 submissions).
 
+⭐ InteliGente was awarded as the most transformative project (Open and Free Internet) in Latin America by the Regional Fund for Digital Innovation in Latin America and the Caribbean (FRIDA), receiving a $10,000 prize.
+
+⭐ BioPrediction (Bruno, André, and Robson) was awarded as the best undergraduate project in the world in computer science by the Global Undergraduate Awards 2024, marking the first time this award in the field has been given to Latin America.
+
 ⭐ BioPrediction - Project selected to participate in Prototypes for Humanity 2023, during COP28-Dubai, chosen from 3000 entries, from more than 100 countries, standing out among the 100 best, Prototypes for Humanity - COP28-Dubai.
 
 ⭐ BioAutoML - Top 10 Finalist - Santander X Brazil Award - Selected among the top 10 university projects (from over 200 entries) in Brazil in the national innovation competition promoted by Banco Santander.
@@ -37,6 +41,10 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 ⭐ Our BioAutoML project received third place in the ARTUR ZIVIANI THESIS AWARD (SBCAS), being chosen among the best theses in computing applied to health in Brazil, 2024.
 
 ⭐ BioPrediction received second place in the Scientific Initiation Competition (SBCAS), being chosen among the best works in computing applied to health in Brazil, 2024.
+
+⭐ InteliGente has been selected for the next phase of the LED Prize 2025 (chosen from a total of 2,041 entries), an initiative by Globo and the Roberto Marinho Foundation, which aims to recognize innovative initiatives that are driving transformations in Brazilian education.
+
+⭐ Finalist in the Innovation in Education category at the global GESS Education Awards 2024, recognized for the InteliGente project, which promotes equality through the democratization of AI knowledge.
 
 ⭐ Finalist in the Higher Education Category (Among the 10 finalists in the Higher Education Category - 2897 subscribers - BioFatecou Project), Transformer Educator Award - Sebrae, Instituto Significare and Bett Brasil, which aims to select the most transformative projects in Brazil, 2023.
 
