@@ -24,6 +24,10 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 
 ⭐ BioPrediction - Project selected to participate in Prototypes for Humanity 2023, during COP28-Dubai, chosen from 3000 entries, from more than 100 countries, standing out among the 100 best, Prototypes for Humanity - COP28-Dubai.
 
+⭐ Is That True? - Project selected to participate in Prototypes for Humanity 2024, chosen from 2700 entries, from more than 100 countries, standing out among the 100 best in the world, Prototypes for Humanity 2024.
+
+⭐ BioAutoML - Project selected to participate in Prototypes for Humanity 2024, chosen from 2700 entries, from more than 100 countries, standing out among the 100 best in the world, Prototypes for Humanity 2024.
+
 ⭐ BioAutoML - Top 10 Finalist - Santander X Brazil Award - Selected among the top 10 university projects (from over 200 entries) in Brazil in the national innovation competition promoted by Banco Santander.
 
 ⭐ BioAutoML received an intensive acceleration program by ACE Cortex (one of the largest in Latin America), focusing on innovation, scalability, and business development, as part of the Santander X Brazil Award.
@@ -41,6 +45,8 @@ I have a Ph.D. in Computer Science and Computational Mathematics from the Univer
 ⭐ Our BioAutoML project received third place in the ARTUR ZIVIANI THESIS AWARD (SBCAS), being chosen among the best theses in computing applied to health in Brazil, 2024.
 
 ⭐ BioPrediction received second place in the Scientific Initiation Competition (SBCAS), being chosen among the best works in computing applied to health in Brazil, 2024.
+
+⭐ InteliGente – Finalist – Global Innovation Challenge 2024 (Social Shifters), recognized for innovative solutions with social impact (Among thousands of projects). Sponsored by JPMorganChase, the challenge offers awards up to USD 3,000 for outstanding innovation.
 
 ⭐ InteliGente has been selected for the next phase of the LED Prize 2025 (chosen from a total of 2,041 entries), an initiative by Globo and the Roberto Marinho Foundation, which aims to recognize innovative initiatives that are driving transformations in Brazilian education.
 
