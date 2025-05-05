@@ -16,6 +16,8 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 
 ⭐ AutoAI-Pandemics, which was selected as one of the most promising proposals (a total of 221 proposals from 47 countries following a rigorous review process (142 from Africa, 40 from Asia, 26 from LAC, 12 from MENA)) in a global competition, held by the Global South Artificial Intelligence for Pandemic and Epidemic Preparedness and Response Network - AI4PEP - 2023 - CAN$362,500.
 
+⭐ Our project, AutoAI-Pandemics, was the only initiative from our country (Brazil) selected among the top 21 ideas in a prestigious global call promoted by AI4PEP, IDRC, and the UK International Development. The project received a grant of CAD 206,400 to advance its mission of using AI for pandemic preparedness and equity in the Global South.
+
 ⭐ Google Latin America Research Awards (LARA), Google, 2021. Project: BioAutoML: Automated Feature Engineering for Classification of Biological Sequences. Elected by LARA-Google among the 24 most promising ideas in Latin America (24 awarded projects, from a base of 700 submissions). Scholarship: 2022-2023 (USD: 14.400,00).
 
 ⭐ InteliGente was awarded as the most transformative project (Open and Free Internet) in Latin America by the Regional Fund for Digital Innovation in Latin America and the Caribbean (FRIDA), receiving a $10,000 prize.
@@ -51,6 +53,10 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 ⭐ InteliGente has been selected for the next phase of the LED Prize 2025 (chosen from a total of 2,041 entries), an initiative by Globo and the Roberto Marinho Foundation, which aims to recognize innovative initiatives that are driving transformations in Brazilian education.
 
 ⭐ Finalist in the Innovation in Education category at the global GESS Education Awards 2024, recognized for the InteliGente project, which promotes equality through the democratization of AI knowledge.
+
+⭐ The InteliGente project won 2nd place in the Higher Education category at the EducDay Innovation Award 2025.
+
+⭐ Honorable Mention in the J.F. Marar Artificial Intelligence Award for Undergraduates 2024 with the project ChemAutoML – Democratizing Machine Learning for Cheminformatics.
 
 ⭐ Finalist in the Higher Education Category (Among the 10 finalists in the Higher Education Category - 2897 subscribers - BioFatecou Project), Transformer Educator Award - Sebrae, Instituto Significare and Bett Brasil, which aims to select the most transformative projects in Brazil, 2023.
 
