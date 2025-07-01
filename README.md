@@ -22,6 +22,8 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 
 ⭐ InteliGente was awarded as the most transformative project (Open and Free Internet) in Latin America by the Regional Fund for Digital Innovation in Latin America and the Caribbean (FRIDA), receiving a $10,000 prize.
 
+⭐ Dr. Bonidia and Dr. Carvalho are winners of the USP Outstanding Thesis Award 2025 (Prêmio Tese Destaque USP 2025 - R$10,000), granted to the best doctoral thesis of the year in Exact and Earth Sciences by the University of São Paulo. This award recognizes research of excellence and high academic impact, and is one of the most prestigious distinctions from Brazil's leading public university and a reference in Latin America.
+
 ⭐ BioPrediction (Bruno, André, and Robson) was awarded as the best undergraduate project in the world in computer science by the Global Undergraduate Awards 2024, marking the first time this award in the field has been given to Latin America.
 
 ⭐ BioPrediction - Project selected to participate in Prototypes for Humanity 2023, during COP28-Dubai, chosen from 3000 entries, from more than 100 countries, standing out among the 100 best, Prototypes for Humanity - COP28-Dubai.
