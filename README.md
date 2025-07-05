@@ -32,6 +32,8 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 
 ⭐ BioAutoML - Project selected to participate in Prototypes for Humanity 2024, chosen from 2700 entries, from more than 100 countries, standing out among the 100 best in the world, Prototypes for Humanity 2024.
 
+⭐ InteliGente has been shortlisted for the HundrED Global Collection 2026, placing us among the most impactful and inspiring education initiatives in the world.
+
 ⭐ BioAutoML - Top 10 Finalist - Santander X Brazil Award - Selected among the top 10 university projects (from over 200 entries) in Brazil in the national innovation competition promoted by Banco Santander.
 
 ⭐ BioAutoML received an intensive acceleration program by ACE Cortex (one of the largest in Latin America), focusing on innovation, scalability, and business development, as part of the Santander X Brazil Award.
