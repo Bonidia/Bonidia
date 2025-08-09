@@ -24,6 +24,8 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 
 ⭐ Dr. Bonidia and Dr. Carvalho are winners of the USP Outstanding Thesis Award 2025 (Prêmio Tese Destaque USP 2025 - R$10,000), granted to the best doctoral thesis of the year in Exact and Earth Sciences by the University of São Paulo. This award recognizes research of excellence and high academic impact, and is one of the most prestigious distinctions from Brazil's leading public university and a reference in Latin America.
 
+⭐ I received the V Academic Recognition Award in Human Rights, granted by the University of Campinas (Unicamp) and the Vladimir Herzog Institute, in the category Exact Sciences, Engineering, and Technology – Doctorate. The award recognizes research that makes a significant contribution to the promotion of human rights through social impact, innovation, and scientific relevance.
+
 ⭐ BioPrediction (Bruno, André, and Robson) was awarded as the best undergraduate project in the world in computer science by the Global Undergraduate Awards 2024, marking the first time this award in the field has been given to Latin America.
 
 ⭐ BioPrediction - Project selected to participate in Prototypes for Humanity 2023, during COP28-Dubai, chosen from 3000 entries, from more than 100 countries, standing out among the 100 best, Prototypes for Humanity - COP28-Dubai.
@@ -33,6 +35,8 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 ⭐ BioAutoML - Project selected to participate in Prototypes for Humanity 2024, chosen from 2700 entries, from more than 100 countries, standing out among the 100 best in the world, Prototypes for Humanity 2024.
 
 ⭐ InteliGente has been shortlisted for the HundrED Global Collection 2026, placing us among the most impactful and inspiring education initiatives in the world.
+
+⭐ BioAutoML - Our book was a finalist (5 books) for the Jabuti Academic Award, recognized among the best in Brazil in the field of computer science in 2024. The Jabuti is the most prestigious literary prize in Brazil, celebrating excellence in academic and literary production across the country.
 
 ⭐ BioAutoML - Top 10 Finalist - Santander X Brazil Award - Selected among the top 10 university projects (from over 200 entries) in Brazil in the national innovation competition promoted by Banco Santander.
 
