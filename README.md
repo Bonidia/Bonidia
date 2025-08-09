@@ -36,7 +36,7 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 
 ⭐ InteliGente has been shortlisted for the HundrED Global Collection 2026, placing us among the most impactful and inspiring education initiatives in the world.
 
-⭐ BioAutoML - Our book was a finalist (5 books) for the Jabuti Academic Award, recognized among the best in Brazil in the field of computer science in 2024. The Jabuti is the most prestigious literary prize in Brazil, celebrating excellence in academic and literary production across the country.
+⭐ Our book was a finalist (5 books) for the Jabuti Academic Award, recognized among the best in Brazil in the field of computer science in 2024. The Jabuti is the most prestigious literary prize in Brazil, celebrating excellence in academic and literary production across the country.
 
 ⭐ BioAutoML - Top 10 Finalist - Santander X Brazil Award - Selected among the top 10 university projects (from over 200 entries) in Brazil in the national innovation competition promoted by Banco Santander.
 
