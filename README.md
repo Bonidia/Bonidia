@@ -12,9 +12,3 @@ Robson Parmezan Bonidia is an AI researcher, educator, and social innovator dedi
 🐦 [ResearchGate](https://www.researchgate.net/profile/Robson-Bonidia-2) **|** 
 📺 [Google Scholar](https://scholar.google.com.br/citations?user=kTbx_wMAAAAJ&hl=pt-BR) **|** 
 👔 [Linkedin](https://www.linkedin.com/in/robson-parmezan-bonidia-phd-8b1b8890)
-
-# ---
-# Information about my GitHub Account 
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bonidia&show_icons=true)
-
-# ---
